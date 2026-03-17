@@ -1,0 +1,12 @@
+{
+  "name": "aim-duel-server",
+  "version": "1.0.0",
+  "description": "AIM DUEL online server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
